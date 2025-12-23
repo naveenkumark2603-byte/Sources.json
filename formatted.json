@@ -1,0 +1,43 @@
+{
+  "catalog_version": 1,
+  "repo_name": "Soundbound Experimental Sources",
+  "description": "Experimental sources for Soundbound",
+  "sources": [
+    {
+      "source_id": "in.shabinder.soundbound.extension.shabinder.saavn",
+      "source_name": "SaavnProvider",
+      "source_version_code": 35,
+      "source_version_name": "0.26.35",
+      "link": "https://gitlab.com/shabinder/soundbound/-/raw/main/Experimental-Sources/in.shabinder.soundbound.extension.shabinder.saavn/35/manifest.zipline.json",
+      "source_type": "DOWNLOADABLE_PROVIDER",
+      "enabledByDefault": true
+    },
+    {
+      "source_id": "in.shabinder.soundbound.extension.shabinder.soundcloud",
+      "source_name": "SoundcloudProvider",
+      "source_version_code": 35,
+      "source_version_name": "0.26.35",
+      "link": "https://gitlab.com/shabinder/soundbound/-/raw/main/Experimental-Sources/in.shabinder.soundbound.extension.shabinder.soundcloud/35/manifest.zipline.json",
+      "source_type": "DOWNLOADABLE_PROVIDER",
+      "enabledByDefault": true
+    },
+    {
+      "source_id": "in.shabinder.soundbound.extension.shabinder.gaana",
+      "source_name": "GaanaProvider",
+      "source_version_code": 35,
+      "source_version_name": "0.26.35",
+      "link": "https://gitlab.com/shabinder/soundbound/-/raw/main/Experimental-Sources/in.shabinder.soundbound.extension.shabinder.gaana/35/manifest.zipline.json",
+      "source_type": "QUERYABLE_PROVIDER",
+      "enabledByDefault": true
+    },
+    {
+      "source_id": "in.shabinder.soundbound.extension.shabinder.youtube",
+      "source_name": "YoutubeProvider",
+      "source_version_code": 35,
+      "source_version_name": "0.26.35",
+      "link": "https://gitlab.com/shabinder/soundbound/-/raw/main/Experimental-Sources/in.shabinder.soundbound.extension.shabinder.youtube/35/manifest.zipline.json",
+      "source_type": "DOWNLOADABLE_PROVIDER",
+      "enabledByDefault": true
+    }
+  ]
+}
